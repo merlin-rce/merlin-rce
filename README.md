@@ -1,34 +1,25 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=160&section=header&text=Hi%2C%20I'm%20Merlin&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=130&section=header&text=Hi%2C%20I'm%20Merlin&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=45" width="100%" />
 
-<div align="center">
+<table width="100%"><tr>
+<td width="38%" align="center" valign="middle">
 
-<br />
+<img src="PICS/MatrixME.gif" width="210" style="border-radius:10px;" />
 
-<img src="PICS/MatrixME.gif" width="250" style="border-radius:10px;" />
+</td>
+<td width="62%" valign="middle">
 
-<br /><br />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=900&color=7D8590&center=true&vCenter=true&width=560&lines=17yo+electronics+student+in+Switzerland+%F0%9F%87%A8%F0%9F%87%AD;Learning+C%2B%2B+%2F+ESP32+%2F+embedded+systems;Building+FPV+drones+%E2%80%94+and+crashing+them;Running+in+the+mountains+between+builds)](https://git.io/typing-svg)
-
-<br />
-
-</div>
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=900&color=7D8590&center=false&vCenter=true&width=420&lines=17yo+electronics+student+in+Switzerland;Learning+C%2B%2B+%2F+ESP32+%2F+embedded+systems;Building+FPV+drones+%26+crashing+them;Running+in+the+mountains+between+builds)](https://git.io/typing-svg)
 
 <br />
-
-## About me
 
 I'm 17, studying electronics in Neuchâtel (CFC). I got into embedded systems because I wanted to build things that actually *do* something. Not just software on a screen.
 
 I'm not a pro at all. I'm learning as I go, breaking stuff, reading datasheets I barely understand, slowly figuring it out. That's kind of the point.
 
-Outside of electronics I build and fly FPV  drones, run a lot, and love mountains :)
+Outside of electronics I build and fly FPV drones, run a lot, and love mountains :)
 
-<br />
-
----
+</td>
+</tr></table>
 
 <br />
 
