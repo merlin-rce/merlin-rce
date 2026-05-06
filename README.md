@@ -8,7 +8,7 @@
 </td>
 <td width="62%" valign="middle">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=900&color=7D8590&center=false&vCenter=true&width=420&lines=17yo+electronics+student+in+Switzerland;Learning+C%2B%2B+%2F+ESP32+%2F+embedded+systems;Building+FPV+drones+%26+crashing+them;Running+in+the+mountains+between+builds)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=900&color=7D8590&center=true&vCenter=true&width=420&lines=17yo+electronics+student+in+Switzerland;Learning+C%2B%2B+%2F+ESP32+%2F+embedded+systems;Building+FPV+drones+%26+crashing+them;Running+in+the+mountains+between+builds)](https://git.io/typing-svg)
 
 <br />
 
