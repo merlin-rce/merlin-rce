@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="PICS/MatrixME.gif" width="85%" style="border-radius:10px;" />
+<img src="PICS/MatrixME.gif" width="450" style="border-radius:10px;" />
 
 <br /><br />
 
@@ -145,17 +145,17 @@ FPV building          █████████░   been doing it for over a 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="PICS/FPV_OP.jpg" width="230" style="border-radius:6px;" /><br />
+<img src="PICS/FPV_OP.jpg" width="220" height="150" style="border-radius:6px;object-fit:cover;" /><br />
 <sub><sup>DC5 v1.1 · freestyle/cinematic — 6S · 1950kv motors · DJI o4 Pro air unit</sup></sub>
 </td>
 <td align="center" width="33%">
 
-<img src="PICS/pumpkin.png" width="230" style="border-radius:6px;" /><br />
+<img src="PICS/pumpkin.png" width="220" height="150" style="border-radius:6px;object-fit:cover;" /><br />
 <sub><sup>Smart Pumpkin · Candy dispenser </sup></sub>
 </td>
 <td align="center" width="33%">
 
-<img src="PICS/MatrixME.gif" width="230" style="border-radius:6px;" /><br />
+<img src="PICS/MatrixME.gif" width="220" height="150" style="border-radius:6px;object-fit:cover;" /><br />
 <sub><sup>MatrixME · generative art</sup></sub>
 </td>
 </tr>
