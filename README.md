@@ -143,8 +143,7 @@ If you want to support a student who spends his weekends soldering and crashing 
   <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
 </a>
 
-<br /><br />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=120&section=footer" width="120%" />
