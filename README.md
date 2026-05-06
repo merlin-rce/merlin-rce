@@ -135,19 +135,13 @@ FPV building          █████████░   been doing it for over a 
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="PICS/FPV_OP.jpg" width="220" height="150" style="border-radius:6px;object-fit:cover;" /><br />
-<sub><sup>DC5 v1.1 · freestyle/cinematic — 6S · 1950kv motors · DJI o4 Pro air unit</sup></sub>
+<td align="center" width="50%">
+<img src="PICS/FPV_OP.jpg" width="280" height="180" style="border-radius:6px;object-fit:cover;" /><br />
+<sub><sup>DC5 v1.1 · 6S · 1950kv · DJI O4 Pro</sup></sub>
 </td>
-<td align="center" width="33%">
-
-<img src="PICS/pumpkin.png" width="220" height="150" style="border-radius:6px;object-fit:cover;" /><br />
-<sub><sup>Smart Pumpkin · Candy dispenser </sup></sub>
-</td>
-<td align="center" width="33%">
-
-<img src="PICS/MatrixME.gif" width="220" height="150" style="border-radius:6px;object-fit:cover;" /><br />
-<sub><sup>MatrixME · generative art</sup></sub>
+<td align="center" width="50%">
+<img src="PICS/pumpkin.png" width="280" height="180" style="border-radius:6px;object-fit:cover;" /><br />
+<sub><sup>Smart Pumpkin · candy dispenser</sup></sub>
 </td>
 </tr>
 </table>
