@@ -40,9 +40,9 @@ Status  [ ██████░░░░░ ]  ~60% done
 ```                 
 
 **What I learned doing this:**
-- Design and receive my first ever PCB yay !!!
+- Design and receive my first ever PCB yay :)
 - Tft screen break easly... RIP
-- Encoder debouncing in hardware + software
+- Getting to know how encodeur works 
 
 </td>
 <td width="8%"></td>
@@ -129,43 +129,18 @@ FPV building          █████████░   been doing it for over a 
 
 <br />
 
-## My builds
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="PICS/FPV_OP.jpg" width="280" height="180" style="border-radius:6px;object-fit:cover;" /><br />
-<sub><sup>DC5 v1.1 · 6S · 1950kv · DJI O4 Pro</sup></sub>
-</td>
-<td align="center" width="50%">
-<img src="PICS/pumpkin.png" width="280" height="180" style="border-radius:6px;object-fit:cover;" /><br />
-<sub><sup>Smart Pumpkin · candy dispenser</sup></sub>
-</td>
-</tr>
-</table>
-
-</div>
 
 <br />
 
----
-
-<br />
-
-<div align="center">
-
-`FPV` &nbsp;·&nbsp; `Mountains` &nbsp;·&nbsp; `Running`
-
-<br />
-
-<sub>If you want to support a student who spends his weekends soldering and crashing drones xD </sub>
+If you want to support a student who spends his weekends soldering and crashing drones xD
 
 <br />
 
 <a href="https://buymeacoffee.com/merlin.rce">
-  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" />
+  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
 </a>
 
 <br /><br />
