@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="C:\Users\racin\OneDrive - Lycées et centres professionnels neuchâtelois\Documents\PlatformIO\Projects\merlin-rce\PICS\MatrixME.gif" width="85%" style="border-radius:10px;" />
+<img src="PICS/MatrixME.gif" width="85%" style="border-radius:10px;" />
 
 <br /><br />
 
@@ -57,7 +57,7 @@ Status  [ ██████░░░░░ ]  ~60% done
 <td width="8%"></td>
 <td width="34%" valign="middle" align="center">
 
-<img src="C:\Users\racin\OneDrive - Lycées et centres professionnels neuchâtelois\Documents\PlatformIO\Projects\merlin-rce\PICS\DICE PCB.png" width="190" style="border-radius:8px;" />
+<img src="PICS/DICE%20PCB.png" width="190" style="border-radius:8px;" />
 <br/>
 <sub><sup>ESP32-S3 · GC9A01 · Ring Encoder</sup></sub>
 
@@ -145,18 +145,18 @@ FPV building          █████████░   been doing it for over a 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="C:\Users\racin\OneDrive - Lycées et centres professionnels neuchâtelois\Documents\PlatformIO\Projects\merlin-rce\PICS\FPV_OP.jpg" width="230" style="border-radius:6px;" /><br />
+<img src="PICS/FPV_OP.jpg" width="230" style="border-radius:6px;" /><br />
 <sub><sup>DC5 v1.1 · freestyle/cinematic — 6S · 1950kv motors · DJI o4 Pro air unit</sup></sub>
 </td>
 <td align="center" width="33%">
 
-<img src="C:\Users\racin\OneDrive - Lycées et centres professionnels neuchâtelois\Documents\PlatformIO\Projects\merlin-rce\PICS\pumpkin.png" width="230" style="border-radius:6px;" /><br />
+<img src="PICS/pumpkin.png" width="230" style="border-radius:6px;" /><br />
 <sub><sup>Smart Pumpkin · Candy dispenser </sup></sub>
 </td>
 <td align="center" width="33%">
 
-<img src="assets/fpv_outdoor.jpg" width="230" style="border-radius:6px;" /><br />
-<sub><sup>FPV · Swiss Alps</sup></sub>
+<img src="PICS/MatrixME.gif" width="230" style="border-radius:6px;" /><br />
+<sub><sup>MatrixME · generative art</sup></sub>
 </td>
 </tr>
 </table>
