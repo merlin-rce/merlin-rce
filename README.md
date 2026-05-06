@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="PICS/MatrixME.gif" width="450" style="border-radius:10px;" />
+<img src="PICS/MatrixME.gif" width="250" style="border-radius:10px;" />
 
 <br /><br />
 
