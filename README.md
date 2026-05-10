@@ -43,6 +43,7 @@ Status  [ ██████░░░░░ ]  ~60% done
 - Design and receive my first ever PCB yay :)
 - Tft screen break easly... RIP
 - Getting to know how encodeur works
+  
 A huge thanks to <a href="https://lopaka.app">Lopaka Team</a> for giving me a Pro subscription to their graphics editor for embedded screens,has allowed me to make the UI for my project. 
 
 </td>
