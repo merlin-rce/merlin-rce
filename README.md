@@ -31,14 +31,15 @@ Outside of electronics I build and fly FPV drones, run a lot, and love mountains
 
 ### Dice TFT Display
 
-A circular GC9A01 display wired to a ring encoder — spin it, it rolls a dice face with a smooth transition animation.
+A circular GC9A01 display wired to a ring encoder spin it, it rolls a dice face with a smooth transition animation.
 
 Firmware written in **C++** on **PlatformIO**, running on an **ESP32-S3 wroom**.
 
 ```
-Status  [ ██████░░░░░ ]  ~60% done
+Status  [ ███████░░░ ]  ~80% done
 ```                 
-
+**Currently making**
+• Designing a 3D printed case
 **What I learned doing this:**
 - Design and receive my first ever PCB yay :)
 - Tft screen break easly... RIP
