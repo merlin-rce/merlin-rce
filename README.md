@@ -39,7 +39,9 @@ Firmware written in **C++** on **PlatformIO**, running on an **ESP32-S3 wroom**.
 Status  [ ███████░░░ ]  ~80% done
 ```                 
 **Currently making**
+```
 • Designing a 3D printed case
+```
 **What I learned doing this:**
 - Design and receive my first ever PCB yay :)
 - Tft screen break easly... RIP
