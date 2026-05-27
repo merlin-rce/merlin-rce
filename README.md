@@ -40,12 +40,13 @@ Status  [ ███████░░░ ]  ~80% done
 ```                 
 **Currently making**
 ```
-• Designing a 3D printed case
+• Coding the Random Number Generator with Radio noise API
 ```
 **What I learned doing this:**
 - Design and receive my first ever PCB yay :)
 - Tft screen break easly... RIP
 - Getting to know how encodeur works
+- CAD is hard but pretty proud of the result
   
 A huge thanks to <a href="https://lopaka.app">Lopaka Team</a> for giving me a Pro subscription to their graphics editor for embedded screens,has allowed me to make the UI for my project. 
 
