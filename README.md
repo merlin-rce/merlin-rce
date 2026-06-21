@@ -29,25 +29,24 @@ Outside of electronics I build and fly FPV drones, run a lot, and love mountains
 <tr>
 <td width="58%" valign="top">
 
-### DYCE — round electronic die · ✅ finished
+### DYCE — round electronic die
 
-A round, open-source electronic die: spin the ring, the circular GC9A01 screen charges up, rolls a number and lands on it. Custom PCB, **ESP32-S3**, firmware in **C++ / PlatformIO**, **100% offline**.
+A round, open-source electronic die: spin the ring, the circular screen charges up, rolls a number and lands on it. Custom PCB · **ESP32-S3** · **C++ / PlatformIO** · 100% offline.
 
-```
-Status  [ ██████████ ]  done — built, working & open-sourced
-```
-**Repo** → [github.com/merlin-rce/Dyce](https://github.com/merlin-rce/Dyce)  ·  **Live simulator** → [merlin-rce.tech/Dyce](https://merlin-rce.tech/Dyce)
+<a href="https://github.com/merlin-rce/Dyce"><img src="https://img.shields.io/badge/status-finished-2ea043?style=flat-square" /></a>
+<a href="https://github.com/merlin-rce/Dyce"><img src="https://img.shields.io/badge/code-Dyce-1f6feb?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://merlin-rce.tech/Dyce"><img src="https://img.shields.io/badge/live-simulator-8957e5?style=flat-square" /></a>
 
-**What I learned doing this:**
-- Designed and received my first ever PCB yay :)
-- Tft screens break easly... RIP
-- Got to know how encoders work
-- CAD is hard but pretty proud of the result
-- Fair rolls with the ESP32 hardware RNG (`esp_random`) + rejection sampling
-  
-A huge thanks to <a href="https://lopaka.app">Lopaka Team</a> for giving me a Pro subscription to their graphics editor for embedded screens,has allowed me to make the UI for my project. 
+**What building it taught me**
+- Designed and received my first ever PCB :)
+- TFT screens break easily... RIP
+- How rotary encoders actually work
+- CAD is hard — but I'm proud of the result
+- Fair rolls via the ESP32 hardware RNG (`esp_random`) + rejection sampling
 
-> 📦 A full step-by-step **Instructables** build guide is coming soon — so anyone can make their own.
+Big thanks to <a href="https://lopaka.app">Lopaka</a> for a Pro subscription to their embedded-screen graphics editor — it's what I built the UI with.
+
+*A full step-by-step Instructables build guide is coming soon, so anyone can make their own.*
 
 </td>
 <td width="8%"></td>
@@ -63,10 +62,10 @@ A huge thanks to <a href="https://lopaka.app">Lopaka Team</a> for giving me a Pr
 
 <br />
 
-### Up next — Lumatrack 🚧
+### Up next — Lumatrack
 
-DYCE is done, so this **summer I'm starting a new project: Lumatrack.** Still early, but some
-great things are coming — stay tuned :)
+With DYCE wrapped up, this summer I'm starting something new: **Lumatrack.**
+Still early — but some great things are coming.
 
 <br />
 
