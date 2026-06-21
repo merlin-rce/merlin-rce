@@ -29,38 +29,44 @@ Outside of electronics I build and fly FPV drones, run a lot, and love mountains
 <tr>
 <td width="58%" valign="top">
 
-### Dice TFT Display
+### DYCE — round electronic die · ✅ finished
 
-A circular GC9A01 display wired to a ring encoder spin it, it rolls a dice face with a smooth transition animation.
-
-Firmware written in **C++** on **PlatformIO**, running on an **ESP32-S3 wroom**.
+A round, open-source electronic die: spin the ring, the circular GC9A01 screen charges up, rolls a number and lands on it. Custom PCB, **ESP32-S3**, firmware in **C++ / PlatformIO**, **100% offline**.
 
 ```
-Status  [ ███████░░░ ]  ~80% done
-```                 
-**Currently making**
+Status  [ ██████████ ]  done — built, working & open-sourced
 ```
-• Coding the Random Number Generator with Radio noise API
-```
+**Repo** → [github.com/merlin-rce/Dyce](https://github.com/merlin-rce/Dyce)  ·  **Live simulator** → [merlin-rce.tech/Dyce](https://merlin-rce.tech/Dyce)
+
 **What I learned doing this:**
-- Design and receive my first ever PCB yay :)
-- Tft screen break easly... RIP
-- Getting to know how encodeur works
+- Designed and received my first ever PCB yay :)
+- Tft screens break easly... RIP
+- Got to know how encoders work
 - CAD is hard but pretty proud of the result
+- Fair rolls with the ESP32 hardware RNG (`esp_random`) + rejection sampling
   
 A huge thanks to <a href="https://lopaka.app">Lopaka Team</a> for giving me a Pro subscription to their graphics editor for embedded screens,has allowed me to make the UI for my project. 
+
+> 📦 A full step-by-step **Instructables** build guide is coming soon — so anyone can make their own.
 
 </td>
 <td width="8%"></td>
 <td width="34%" valign="middle" align="center">
 
-<img src="PICS/DICE%20PCB.png" width="190" style="border-radius:8px;" />
+<img src="PICS/Dyce.gif" width="200" style="border-radius:10px;" />
 <br/>
 <sub><sup>ESP32-S3 · GC9A01 · Ring Encoder</sup></sub>
 
 </td>
 </tr>
 </table>
+
+<br />
+
+### Up next — Lumatrack 🚧
+
+DYCE is done, so this **summer I'm starting a new project: Lumatrack.** Still early, but some
+great things are coming — stay tuned :)
 
 <br />
 
