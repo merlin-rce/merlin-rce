@@ -1,160 +1,73 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=130&section=header&text=Hi%2C%20I'm%20Merlin&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=45" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="Hi, I'm Merlin. Building FPV drones and crashing them. Portrait made of falling hex characters.">
+</picture>
 
-<table width="100%"><tr>
-<td width="38%" align="center" valign="middle">
+<br>
 
-<img src="PICS/MatrixME.gif" width="210" style="border-radius:10px;" />
+**18. Electronics student in Neuchâtel, Switzerland.**
 
-</td>
-<td width="62%" valign="middle">
+I design PCBs, write firmware in C and build hardware that actually does something. Not just software on a screen.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=900&color=7D8590&center=true&vCenter=true&width=420&lines=17yo+electronics+student+in+Switzerland;Learning+C%2B%2B+%2F+ESP32+%2F+embedded+systems;Building+FPV+drones+%26+crashing+them;Running+in+the+mountains+between+builds)](https://git.io/typing-svg)
+Datasheet first, register by register. If I don't understand how something works, I take it apart until I do.
 
-<br />
+Off the bench: FPV drones, running, mountains.
 
-I'm 17, studying electronics in Neuchâtel (CFC). I got into embedded systems because I wanted to build things that actually *do* something. Not just software on a screen.
+<p>
+<a href="https://merlin-rce.tech/Dyce#gh-dark-mode-only"><img src="assets/social-simulator-dark.svg" height="40" alt="Dyce simulator"></a><a href="https://merlin-rce.tech/Dyce#gh-light-mode-only"><img src="assets/social-simulator-light.svg" height="40" alt="Dyce simulator"></a>
+<a href="https://www.tiktok.com/@merlin.smd#gh-dark-mode-only"><img src="assets/social-tiktok-dark.svg" height="40" alt="TikTok"></a><a href="https://www.tiktok.com/@merlin.smd#gh-light-mode-only"><img src="assets/social-tiktok-light.svg" height="40" alt="TikTok"></a>
+<a href="https://www.instagram.com/merlin.sdm#gh-dark-mode-only"><img src="assets/social-instagram-dark.svg" height="40" alt="Instagram"></a><a href="https://www.instagram.com/merlin.sdm#gh-light-mode-only"><img src="assets/social-instagram-light.svg" height="40" alt="Instagram"></a>
+<a href="https://www.instagram.com/merlin.fpv#gh-dark-mode-only"><img src="assets/social-fpv-dark.svg" height="40" alt="FPV on Instagram"></a><a href="https://www.instagram.com/merlin.fpv#gh-light-mode-only"><img src="assets/social-fpv-light.svg" height="40" alt="FPV on Instagram"></a>
+</p>
 
-I'm not a pro at all. I'm learning as I go, breaking stuff, reading datasheets I barely understand, slowly figuring it out. That's kind of the point.
-
-Outside of electronics I build and fly FPV drones, run a lot, and love mountains :)
-
-</td>
-</tr></table>
-
-<br />
+<br>
 
 ## What I'm building right now
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/building-dark.svg">
+  <img src="assets/building-light.svg" width="100%" alt="Latency (in progress): a PCB map of my school that tells my class exactly when to leave for the bus. LumaTrack (school project): a pacer made of light for athletics tracks, built for running clubs. AVC (private for now): an open flight controller for anything that moves, I'm designing the radio.">
+</picture>
 
-### DYCE — round electronic die
-
-A round, open-source electronic die: spin the ring, the circular screen charges up, rolls a number and lands on it. Custom PCB · **ESP32-S3** · **C++ / PlatformIO** · 100% offline.
-
-<a href="https://github.com/merlin-rce/Dyce"><img src="https://img.shields.io/badge/status-finished-2ea043?style=flat-square" /></a>
-<a href="https://github.com/merlin-rce/Dyce"><img src="https://img.shields.io/badge/code-Dyce-1f6feb?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://merlin-rce.tech/Dyce"><img src="https://img.shields.io/badge/live-simulator-8957e5?style=flat-square" /></a>
-
-**What building it taught me**
-- Designed and received my first ever PCB :)
-- TFT screens break easily... RIP
-- How rotary encoders actually work
-- CAD is hard — but I'm proud of the result
-- Fair rolls via the ESP32 hardware RNG (`esp_random`) + rejection sampling
-
-Big thanks to <a href="https://lopaka.app">Lopaka</a> for a Pro subscription to their embedded-screen graphics editor — it's what I built the UI with.
-
-*A full step-by-step Instructables build guide is coming soon, so anyone can make their own.*
-
-</td>
-<td width="8%"></td>
-<td width="34%" valign="middle" align="center">
-
-<img src="PICS/Dyce.gif" width="200" style="border-radius:10px;" />
-<br/>
-<sub><sup>ESP32-S3 · GC9A01 · Ring Encoder</sup></sub>
-
-</td>
-</tr>
-</table>
-
-<br />
-
-### Up next — Lumatrack
-
-With DYCE wrapped up, this summer I'm starting something new: **Lumatrack.**
-Still early — but some great things are coming.
-
-<br />
-
----
-
-<br />
+<br>
 
 ## What I'm learning
 
-These aren't skills I have — they're things I'm actively working on.
+Rated honestly, updated as I go.
 
-```
-C / C++               ██████░░░░   getting comfortable
-Embedded systems      █████░░░░░   active projects, still a lot to learn
-SPI · I²C · UART      ████░░░░░░   used in projects, not fully solid yet
-Electronics (CFC)     ██████░░░░   year 2/3
-3D Printing           ████████░░   pretty confident
-FPV building          █████████░   been doing it for over a year now
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/learning-dark.svg">
+  <img src="assets/learning-light.svg" width="100%" alt="Learning log, self-assessed out of 10: C / C++ 6, embedded systems 5, bare-metal AVR 3, VHDL / FPGA 2 (still a beginner, but I love it), SPI / I2C / UART 4, PCB design 5, RF / radio 2, electronics (CFC) 7, 3D printing and CAD 8, FPV building 9.">
+</picture>
 
-<br />
+<br>
 
----
+## Already built
 
-<br />
+<p>
+<a href="https://github.com/merlin-rce/Dyce#gh-dark-mode-only"><img src="assets/card-dyce-dark.svg" width="49%" alt="Dyce: a round, open-source electronic die on a custom ESP32-S3 board. 2nd place, Instructables Battery Powered Contest."></a><a href="https://github.com/merlin-rce/Dyce#gh-light-mode-only"><img src="assets/card-dyce-light.svg" width="49%" alt="Dyce: a round, open-source electronic die on a custom ESP32-S3 board. 2nd place, Instructables Battery Powered Contest."></a>
+<a href="https://github.com/merlin-rce/HARDuino#gh-dark-mode-only"><img src="assets/card-harduino-dark.svg" width="49%" alt="HARDuino: Arduino rebuilt from the datasheet, register by register. Every name spelled almost right."></a><a href="https://github.com/merlin-rce/HARDuino#gh-light-mode-only"><img src="assets/card-harduino-light.svg" width="49%" alt="HARDuino: Arduino rebuilt from the datasheet, register by register. Every name spelled almost right."></a>
+</p>
+<p>
+<a href="https://github.com/merlin-rce/esp32_SK6812#gh-dark-mode-only"><img src="assets/card-sk6812-dark.svg" width="49%" alt="esp32_SK6812: an LED strip driver with zero libraries, every bit timed in CPU cycles."></a><a href="https://github.com/merlin-rce/esp32_SK6812#gh-light-mode-only"><img src="assets/card-sk6812-light.svg" width="49%" alt="esp32_SK6812: an LED strip driver with zero libraries, every bit timed in CPU cycles."></a>
+<a href="https://github.com/merlin-rce/smart-candy-pumpkin#gh-dark-mode-only"><img src="assets/card-pumpkin-dark.svg" width="49%" alt="smart-candy-pumpkin: a motion-activated Halloween candy dispenser, built with a friend."></a><a href="https://github.com/merlin-rce/smart-candy-pumpkin#gh-light-mode-only"><img src="assets/card-pumpkin-light.svg" width="49%" alt="smart-candy-pumpkin: a motion-activated Halloween candy dispenser, built with a friend."></a>
+</p>
 
-## Hardware I use
+<br>
 
-<details>
-<summary><b>Microcontrollers</b></summary>
-<br/>
+## Toolbox
 
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32--C3-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark.svg">
+  <img src="assets/tools-light.svg" width="100%" alt="C, C++, ESP32, PlatformIO, Altium, 3D printing">
+</picture>
 
-</details>
-
-<details>
-<summary><b>Languages & Toolchain</b></summary>
-<br/>
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-
-</details>
-
-<details>
-<summary><b>Protocols</b></summary>
-<br/>
-
-<img src="https://img.shields.io/badge/SPI-2D3748?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/I2C-2D3748?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/UART-2D3748?style=flat-square&logoColor=white" />
-
-</details>
-
-<details>
-<summary><b>FPV</b></summary>
-<br/>
-
-5" self built · Air65 II 6S · DC5 v1.1 Frame · <a href="https://instagram.com/merlin.fpv">ig:@merlin.fpv</a>
-
-</details>
-
-<br />
+<br>
 
 ---
-
-<br />
-
 
 <div align="center">
-
-
-<br />
-
-If you want to support a student who spends his weekends soldering and crashing drones xD
-
-<br />
-
-<a href="https://buymeacoffee.com/merlin.rce">
-  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
-</a>
-
-
+<sub>If you want to support a student who spends his weekends soldering and crashing drones xD → <a href="https://buymeacoffee.com/merlin.rce">buy me a coffee</a></sub>
+<br><br>
+<sub>Built in Switzerland by <a href="https://github.com/merlin-rce">merlin-rce</a>, learning as I go.</sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=120&section=footer" width="120%" />

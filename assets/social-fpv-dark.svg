@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="40" viewBox="0 0 85 40" role="img" aria-labelledby="t d">
+<title id="t">FPV</title>
+<desc id="d">FPV</desc>
+<style></style>
+<defs><path id="Mg0" d="M156 0Q156 0 156 0Q156 0 156 0V-1432Q156 -1432 156 -1432Q156 -1432 156 -1432H974Q974 -1432 974 -1432Q974 -1432 974 -1432V-1226Q974 -1226 974 -1226Q974 -1226 974 -1226H375V0Q375 0 375 0Q375 0 375 0ZM276 -595V-794H949Q949 -794 949 -794Q949 -794 949 -794V-595Q949 -595 949 -595Q949 -595 949 -595Z"/><path id="Mg1" d="M156 0Q156 0 156 0Q156 0 156 0V-1432Q156 -1432 156 -1432Q156 -1432 156 -1432H657Q870 -1432 1001 -1302Q1132 -1172 1132 -959Q1132 -749 996 -626Q861 -503 650 -503H274V-697H644Q764 -697 838 -769Q912 -841 912 -958Q912 -1077 840 -1154Q769 -1231 652 -1231H374V0Q374 0 374 0Q374 0 374 0Z"/><path id="Mg2" d="M537 0Q537 0 537 0Q537 0 537 0L22 -1432Q22 -1432 22 -1432Q22 -1432 22 -1432H260Q260 -1432 260 -1432Q260 -1432 260 -1432L596 -455L645 -307H651L700 -452L1043 -1432Q1043 -1432 1043 -1432Q1043 -1432 1043 -1432H1277Q1277 -1432 1277 -1432Q1277 -1432 1277 -1432L747 0Q747 0 747 0Q747 0 747 0Z"/></defs>
+<rect x=".5" y=".5" width="84" height="39" rx="19.5" fill="#0d1117" stroke="#30363d"/>
+<g transform="translate(16.0,11.0) scale(0.750)" color="#9198a1"><circle cx="5" cy="5" r="3" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="19" cy="5" r="3" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="5" cy="19" r="3" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="19" cy="19" r="3" fill="none" stroke="currentColor" stroke-width="2"/><path d="M7 7l3 3M17 7l-3 3M7 17l3-3M17 17l-3-3" stroke="currentColor" stroke-width="2"/><rect x="9.5" y="9.5" width="5" height="5" rx="1" fill="currentColor"/></g>
+<g transform="translate(43.00 25.00) scale(0.00700)" fill="#e6edf3"><use href="#Mg0" x="0"/><use href="#Mg1" x="1082"/><use href="#Mg2" x="2247"/></g>
+</svg>
